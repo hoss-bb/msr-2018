@@ -1,0 +1,105 @@
+repoName,repoOrg,description,language,stargazers_count,forks_count,subscribers_count,open_issues_count,size,created_at
+tensorflow,tensorflow,b'Computation using data flow graphs for scalable machine learning',C++,78208,38495,6741,1403,136534,2015-11-07T01:19:20Z
+scikit-learn,scikit-learn,b'scikit-learn: machine learning in Python',Python,23033,12135,1897,1520,86955,2010-08-17T09:43:38Z
+CNTK,Microsoft,"b'Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit'",C++,13104,3413,1297,298,673057,2015-11-26T09:52:06Z
+Theano,Theano,"b'Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.'",Python,7297,2338,563,638,66188,2011-08-10T03:48:06Z
+incubator-mxnet,apache,"b'Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more'",Python,12058,4441,1063,591,28894,2015-04-30T16:21:15Z
+caffe2,caffe2,"b'Caffe2 is a lightweight, modular, and scalable deep learning framework.'",C++,6293,1402,463,472,153098,2015-06-25T18:23:47Z
+Swift-AI,Swift-AI,b'The Swift machine learning library.',Swift,5095,501,338,6,30117,2015-11-19T23:43:18Z
+tiny-dnn,tiny-dnn,"b'header only, dependency-free deep learning framework in C++14'",C++,3494,960,279,242,20127,2012-12-17T14:08:06Z
+chainer,chainer,b'A flexible framework of neural networks for deep learning',Python,3160,846,280,429,18926,2015-06-05T05:50:37Z
+dlib,davisking,b'A toolkit for making real world machine learning and data analysis applications in C++',C++,3229,1079,280,80,17716,2014-01-29T00:45:33Z
+LightLDA,Microsoft,"b'Scalable, fast, and lightweight system for large-scale topic modeling'",C++,503,164,92,29,118,2015-09-11T02:42:49Z
+LightGBM,Microsoft,"b'A fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks. It is under the umbrella of the DMTK(http://github.com/microsoft/dmtk) project of Microsoft.'",C++,4172,1073,279,41,7330,2016-08-05T05:45:50Z
+tensorlayer,zsdonghao,b'TensorLayer: Deep Learning and Reinforcement Learning Library for Researcher and Engineer.',Python,2672,655,353,23,46171,2016-06-07T15:55:16Z
+framework,accord-net,"b'Machine learning, computer vision, statistics and general scientific computing for .NET'",C#,2293,1184,321,280,407023,2012-04-08T13:35:01Z
+mlpack,mlpack,b'mlpack: a scalable C++ machine learning library -- ',C++,1763,642,176,98,241385,2014-12-17T18:16:59Z
+shogun,shogun-toolbox,b'The Shogun Machine Learning Toolbox (Source Code)',C++,1676,769,190,501,63284,2011-04-01T10:44:32Z
+gorgonia,chewxy,b'Gorgonia is a library that helps facilitate machine learning in Go.',Go,1459,140,109,39,6093,2016-09-14T23:19:43Z
+php-ml,php-ai,b'PHP-ML - Machine Learning library for PHP',PHP,4686,586,422,35,913,2016-02-08T20:39:41Z
+deeplearnjs,PAIR-code,b'Hardware-accelerated deep learning and linear algebra (NumPy) library for the web.',TypeScript,4710,393,197,58,92984,2017-08-02T14:45:47Z
+Bender,xmartlabs,b'Easily craft fast Neural Networks on iOS! Use TensorFlow models. Metal under the hood.',Swift,1295,60,47,19,41665,2017-05-03T20:52:12Z
+pomegranate,jmschrei,"b'Fast, flexible and easy to use probabilistic modelling in Python.'",Jupyter Notebook,1172,162,82,43,36058,2014-11-24T18:36:58Z
+mlxtend,rasbt,"b""A library of extension and helper modules for Python's data analysis and machine learning libraries.""",Python,1141,305,80,29,46523,2014-08-14T01:56:16Z
+TensorFlowSharp,migueldeicaza,b'TensorFlow API for .NET languages',C#,1045,157,129,48,5864,2017-01-16T04:18:28Z
+grenade,HuwCampbell,b'Deep Learning in Haskell',Haskell,938,44,42,8,263,2016-06-23T12:04:52Z
+datumbox-framework,datumbox,b'Datumbox is an open-source Machine Learning framework written in Java which allows the rapid development of Machine Learning and Statistical applications.',Java,925,269,130,1,4299,2014-10-18T18:10:08Z
+Forge,hollance,b'A neural network toolkit for Metal',Swift,862,102,54,5,191345,2017-04-23T19:25:05Z
+jubatus,jubatus,b'Framework and Library for Distributed Online Machine Learning',C++,677,144,106,78,10971,2011-10-25T17:24:50Z
+talisman,Yomguithereal,"b'A straightforward & modular NLP, machine learning & fuzzy matching library for JavaScript.'",JavaScript,396,27,9,60,2977,2016-03-25T11:09:12Z
+Cranium,100,"b'\xf0\x9f\xa4\x96   A portable, header-only, artificial neural network library written in C99'",C,390,42,24,6,102,2016-12-25T02:33:42Z
+MLBox,AxeldeRomblay,b'MLBox is a powerful Automated Machine Learning python library. ',Python,379,85,27,2,27488,2017-06-01T16:59:24Z
+neataptic,wagenaartje,b':rocket: Blazing fast neuro-evolution & backpropagation for the browser and Node.js',JavaScript,384,59,38,29,3213,2017-02-23T10:02:16Z
+Fido,FidoProject,b'A lightweight C++ machine learning library for embedded electronics and robotics.',C++,336,60,36,13,53652,2015-08-07T02:54:30Z
+elki,elki-project,b'ELKI Data Mining Toolkit ',Java,225,120,34,0,37771,2015-03-04T14:45:49Z
+libdeep,bashrc,b'A deep learning library for C/C++',C,195,101,36,2,4469,2013-01-06T18:36:04Z
+tgboost,wepe,b'Tiny Gradient Boosting Tree',Python,162,64,6,4,150,2016-12-06T08:59:49Z
+blocks,mila-udem,b'A Theano framework for building and training neural networks',Python,1088,322,86,190,4705,2014-10-06T00:08:32Z
+Lasagne,Lasagne,b'Lightweight library to build and train neural networks in Theano',Python,3299,908,216,136,2224,2014-09-11T15:31:41Z
+nolearn,dnouri,b'scikit-learn compatible neural network library',Python,855,244,48,35,813,2012-11-22T21:41:47Z
+deeplearning4j,deeplearning4j,"b'Deep Learning for Java, Scala & Clojure on Hadoop & Spark With GPUs - From Skymind'",Java,7672,3793,748,619,184291,2013-11-27T02:03:28Z
+torch7,torch,b'http://torch.ch',C,7455,2194,684,199,2582,2013-10-18T12:13:58Z
+tflearn,tflearn,b'Deep learning library featuring a higher-level API for TensorFlow.',Python,7101,1587,412,441,1477,2016-03-31T12:05:53Z
+keras,fchollet,"b'Deep Learning library for Python. Runs on TensorFlow, Theano, or CNTK.'",Python,21836,7957,1398,826,10068,2015-03-28T00:35:42Z
+sonnet,deepmind,b'TensorFlow-based neural network library',Python,5555,697,368,3,4246,2017-04-03T11:34:35Z
+keras-js,transcranial,"b'Run Keras models in the browser, with GPU support using WebGL'",JavaScript,3172,290,139,35,9271,2016-09-30T14:40:35Z
+TensorFlowOnSpark,yahoo,b'TensorFlowOnSpark brings TensorFlow programs onto Apache Spark clusters',Python,1924,492,196,17,1418,2017-01-20T18:15:57Z
+keras-rl,matthiasplappert,b'Deep Reinforcement Learning for Keras.',Python,1829,405,121,51,1287,2016-07-02T15:53:12Z
+deepdetect,beniz,"b'Deep Learning API and Server in C++11 with Python bindings and support for Caffe, Tensorflow, XGBoost and TSNE'",C++,1368,322,133,53,6216,2015-05-22T14:45:28Z
+horovod,uber,b'Distributed training framework for TensorFlow.',C++,1015,115,67,16,158,2017-08-09T19:39:59Z
+sparkit-learn,lensacom,b'PySpark + Scikit-learn = Sparkit-learn',Python,744,147,77,33,455,2014-10-15T14:01:10Z
+polyaxon,polyaxon,"b'A platform that helps you build, manage and monitor deep learning models'",Python,726,61,30,3,990,2016-12-26T12:48:47Z
+kur,deepgram,b'Descriptive Deep Learning',Python,585,92,50,8,1862,2016-11-19T02:42:09Z
+auto_ml,ClimbsRocks,b'Automated machine learning for analytics & production',Python,495,85,39,133,1226,2016-08-07T21:35:08Z
+mmlspark,Azure,b'Microsoft Machine Learning for Apache Spark',Scala,513,98,49,21,802,2017-06-05T08:23:44Z
+eli5,TeamHG-Memex,b'A library for debugging/inspecting machine learning classifiers and explaining their predictions',Jupyter Notebook,436,49,33,52,14324,2016-09-15T01:04:57Z
+machineJS,ClimbsRocks,b'Automated machine learning- just give it a data file! Check out the production-ready version of this project at ClimbsRocks/auto_ml',Python,357,43,32,56,478,2015-07-30T04:10:08Z
+tensorly,tensorly,b'TensorLy: Tensor Learning in Python.',Python,217,32,15,7,435,2016-10-21T23:14:52Z
+Mariana,tariqdaouda,b'A Declarative Language For Deep Learning',Python,139,28,13,3,25765,2015-01-10T00:51:27Z
+neupy,itdxer,b'NeuPy is a Python library for Artificial Neural Networks and Deep Learning.',Python,420,63,26,12,108155,2015-08-24T19:45:11Z
+deepy,zomux,b'A highly extensible deep learning framework',Python,406,69,28,9,32998,2015-03-25T05:24:42Z
+spaCy,explosion,b'\xf0\x9f\x92\xab Industrial-strength Natural Language Processing (NLP) with Python and Cython',Python,7062,1038,350,107,78417,2014-07-03T15:15:40Z
+pattern,clips,"b'Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.'",Python,5842,1117,539,79,45265,2011-05-03T15:29:01Z
+nltk,nltk,b'NLTK Source',Python,5567,1628,429,322,345007,2009-09-07T10:53:58Z
+gensim,RaRe-Technologies,b'Topic Modelling for Humans',Python,5499,2201,348,170,52282,2011-02-10T07:43:04Z
+tpot,rhiever,b'A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.',Python,3215,494,205,49,5744,2015-11-03T21:08:40Z
+edward,blei-lab,"b'A library for probabilistic modeling, inference, and criticism. Deep generative models, variational inference. Runs on TensorFlow.'",Jupyter Notebook,2989,519,243,138,29022,2016-02-10T20:06:05Z
+generative-models,wiseodd,"b'Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.'",Python,2309,695,175,3,103,2016-12-07T11:28:16Z
+rasa_nlu,RasaHQ,b'turn natural language into structured data',Python,2194,543,161,92,11089,2016-10-14T12:27:49Z
+catboost,catboost,"b'CatBoost is an open-source gradient boosting on decision trees library with categorical features support out of the box for Python, R'",C++,2128,254,142,32,40165,2017-07-18T05:29:04Z
+MITIE,mit-nlp,b'MITIE: library and tools for information extraction',C++,1559,298,156,8,10929,2014-04-01T22:47:53Z
+lightfm,lyst,"b'A Python implementation of LightFM, a hybrid recommendation algorithm.'",Python,1330,227,54,18,3904,2015-07-30T08:34:00Z
+luminoth,tryolabs,b'Deep Learning toolkit for Computer Vision',Python,886,85,63,15,1789,2017-02-16T15:07:46Z
+spotlight,maciejkula,b'Deep recommender models using PyTorch.',Python,686,89,34,15,2921,2017-06-25T18:52:19Z
+hdbscan,scikit-learn-contrib,b'A high performance implementation of HDBSCAN clustering.',Jupyter Notebook,695,116,44,49,24189,2015-04-22T13:32:37Z
+polylearn,scikit-learn-contrib,b'A library for factorization machines and polynomial networks for classification and regression in Python.',Python,107,22,8,5,3201,2016-07-11T18:15:04Z
+lightning,scikit-learn-contrib,"b'Large-scale linear classification, regression and ranking in Python'",Python,511,95,27,39,7100,2012-01-11T13:53:52Z
+py-earth,scikit-learn-contrib,"b""A Python implementation of Jerome Friedman's Multivariate Adaptive Regression Splines""",Python,194,39,17,25,18548,2013-02-11T01:57:22Z
+devol,joeddav,b'Automated deep neural network design via genetic programming',Python,606,60,42,1,68,2017-02-10T03:07:54Z
+implicit,benfred,b'Fast Python Collaborative Filtering for Implicit Datasets',Python,558,130,45,10,1030,2016-04-17T03:45:23Z
+thinc,explosion,"b""\xf0\x9f\x94\xae spaCy's Machine Learning library for NLP in Python""",Python,428,46,36,4,2011,2014-10-16T16:34:59Z
+metric-learn,all-umass,b'Metric learning algorithms in Python',Python,341,99,28,20,1338,2013-11-02T08:29:47Z
+chainerrl,chainer,b'ChainerRL is a deep reinforcement learning library built on top of Chainer.',Python,338,77,62,55,6940,2017-01-30T04:58:15Z
+theano_lstm,JonathanRaiman,b':microscope: Nano size Theano LSTM module',Python,301,130,40,11,94,2014-12-11T00:03:27Z
+pynlpl,proycon,"b""PyNLPl, pronounced as 'pineapple', is a Python library for Natural Language Processing. It contains various modules useful for common, and less common, NLP tasks. PyNLPl can be used for basic tasks such as the extraction of n-grams and frequency lists, and to build simple language model. There are also more complex data types and algorithms. Moreover, there are parsers for file formats common in NLP (e.g. FoLiA/Giza/Moses/ARPA/Timbl/CQL). There are also clients to interface with various NLP specific servers. PyNLPl most notably features a very extensive library for working with FoLiA XML (Format for Linguistic Annotation).""",Python,285,48,30,3,13263,2010-07-06T11:42:27Z
+bigartm,bigartm,b'Fast topic modeling platform',C++,224,67,37,94,16725,2014-09-15T20:26:11Z
+sklearn-bayes,AmazaspShumik,b'Python package for Bayesian Machine Learning with scikit-learn API',Jupyter Notebook,227,56,20,13,18247,2015-07-30T03:15:34Z
+MachineLearning,carefree0910,b'Machine learning algorithms implemented by pure numpy',Jupyter Notebook,208,126,19,0,50768,2016-09-18T09:37:01Z
+lda,primaryobjects,b'LDA topic modeling for node.js',JavaScript,171,25,5,1,35,2014-05-27T17:35:48Z
+tslearn,rtavenar,b'A machine learning toolkit dedicated to time-series data',Python,154,18,14,7,2407,2017-05-04T13:08:13Z
+pytorch,pytorch,b'Tensors and Dynamic neural networks in Python  with strong GPU acceleration',Python,9251,1959,533,489,18747,2016-08-13T05:26:41Z
+pylearn2,lisa-lab,b'Warning: This project does not have any current developer. See bellow.',Python,2492,1046,274,201,26008,2010-11-22T18:00:50Z
+nilearn,nilearn,b'Machine learning for NeuroImaging in Python',Python,309,226,58,232,11541,2011-01-09T19:02:23Z
+pybrain,pybrain,,Python,2400,734,220,139,14204,2009-07-02T10:34:58Z
+fuel,mila-udem,b'A data pipeline framework for machine learning',Python,656,216,54,85,1307,2015-02-12T20:42:44Z
+milk,luispedro,b'MILK: Machine Learning Toolkit',Python,559,127,54,4,1631,2009-11-20T21:17:14Z
+hebel,hannes-brt,b'GPU-Accelerated Deep Learning Library in Python',Python,1164,125,78,4,1347,2013-11-20T07:01:18Z
+ramp,kvh,b'Rapid Machine Learning Prototyping in Python',Python,640,97,70,9,734,2012-05-04T08:22:19Z
+neon,NervanaSystems,b'Intel\xc2\xae Nervana\xe2\x84\xa2 reference deep learning framework committed to best performance on all hardware',Python,3306,735,340,60,7738,2014-10-16T01:00:17Z
+caffe,BVLC,b'Caffe: a fast open framework for deep learning.',C++,21295,13110,2089,806,63782,2013-09-12T18:39:48Z
+veles,Samsung,b'Distributed machine learning platform',C++,840,186,83,23,90914,2015-05-27T01:38:35Z
+CaffeOnSpark,yahoo,,Jupyter Notebook,1186,362,146,69,17465,2016-01-11T19:21:31Z
+amazon-dsstne,amzn,b'Deep Scalable Sparse Tensor Network Engine (DSSTNE) is an Amazon developed library for building Deep Learning (DL) machine learning (ML) models ',C++,3947,652,349,19,6950,2016-03-24T06:57:40Z
+BigDL,intel-analytics,b'BigDL: Distributed Deep Learning Library for Apache Spark',Scala,2111,445,184,154,16413,2016-08-29T07:59:50Z
+dynet,clab,b'DyNet: The Dynamic Neural Network Toolkit',C++,1898,468,168,128,8788,2015-02-08T23:09:21Z
+Paddle,PaddlePaddle,b'PArallel Distributed Deep LEarning',C++,5815,1543,534,812,64398,2016-08-15T06:59:08Z
