@@ -4,7 +4,6 @@
 ### Data files
 - **machine_learning_frameworks_infos** file contains general information about ML frameworks repositories.
 - **machine_learning_frameworks_commits** file contains all the commits related to ML frameworks repositories.
-- **machine_learning_frameworks_stargazers** file contains the stargazers related to ML frameworks repositories.
 - **machine_learning_frameworks_contributors** file contains the contributors of ML frameworks repositories.
 - **machine_learning_frameworks_contributors_infos** file contains more information about the contributors of ML frameworks repositories.
 - **machine_learning_projects** file contains data about machine learning projects in GitHub.
